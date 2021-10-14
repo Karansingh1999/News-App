@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News Coco</string>
+    <string name="Share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="developer">Developer</string>
+
+
+    <string-array name="developer_imageslider">
+
+        <item>There are three members in our team.\n 1. Samiksha Kumari (Lead Role) \n 2. Karan Kr. Singh \n 3. Burhanuddin Bawer</item>
+        <item>Our main purpose for making this app to give the summary of full news.\nwe have used here "Text-Summarization Algorithm".\nWe have made more than 20 apps.However we have only 3 apps in Google play store including this one.\nOur team have strong compatability in UI/UX designs ,coding and wireframing.</item>
+
+    </string-array>
+</resources>

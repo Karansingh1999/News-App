@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128401326842",
+    "firebase_url": "https://news-coco-56070.firebaseio.com",
+    "project_id": "news-coco-56070",
+    "storage_bucket": "news-coco-56070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128401326842:android:3feac2e61dc9544030ff43",
+        "android_client_info": {
+          "package_name": "com.samiksha.newscoco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128401326842-ah7tnkqho3a4ppk787o8499male9er3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samiksha.newscoco",
+            "certificate_hash": "d5e8a2878b97334d762c4cfb51863fdd2dbc5c97"
+          }
+        },
+        {
+          "client_id": "128401326842-0k5k1sasu3nv19d37le6dp35ci69o24o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhjhr7tnAB6AflIOz3V8Zx_MEjMF9Rmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128401326842-0k5k1sasu3nv19d37le6dp35ci69o24o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
